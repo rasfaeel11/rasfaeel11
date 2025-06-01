@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>⚠️ Under Construction🛠️</h1>
+<p>Some errors may appear on this README. Please ignore them.</p>
 
-<!--
-**rasfaeel11/rasfaeel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About me</h3>
+<h4><strong>Rafael Melo</strong></h4>
+<p><strong>Brazilian Developer</strong>; Currently located in <strong>Recife.</strong>🇧🇷</p>
+<p><strong>Universidade Tiradentes - UNIT</strong></p>
+<p>Entusiasta por Computadores e seus funcionamentos, programador menos que Junior hahah</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.melo0111/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-melo-11753b218//)
+
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasfaeel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
