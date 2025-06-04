@@ -12,4 +12,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.melo0111/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-melo-11753b218//)
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rasfaeel11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Rafael GitHub stats](![rasfaeel11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasfaeel11&theme=vue-dark&hide_border=true))
