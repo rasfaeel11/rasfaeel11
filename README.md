@@ -5,7 +5,7 @@
 <h4><strong>Rafael Melo</strong></h4>
 <p><strong>Brazilian Developer</strong>; Currently located in <strong>Recife.</strong>🇧🇷</p>
 <p><strong>Universidade Tiradentes - UNIT</strong></p>
-<p>If I would describe myself, I would say that I'am a gamer without time lol</p>
+<p>If I would describe myself, I would say that I'm a gamer without time lol</p>
 
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> My Socials
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
