@@ -47,6 +47,7 @@ I enjoy working on backend systems, automations, and anything that solves real p
 ## 📊 Stats (aka proof I actually code)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasfaeel11&theme=dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasfaeel11&theme=dark)
 
 ---
 
