@@ -30,19 +30,6 @@ I enjoy working on backend systems, automations, and anything that solves real p
 
 ---
 
-## 🚀 Projects
-
-**Geo-Spawn Engine (API)**  
-- REST API using Node.js + PostGIS  
-- Real-world geolocation logic with OpenStreetMap  
-- Clean architecture + Swagger docs  
-
-**Fullstack RPG System**  
-- Built with Node.js, TypeScript, and Supabase  
-- Turn-based combat system with some AI logic  
-- Probably overengineered... but in a good way  
-
----
 
 ## 📊 Stats (aka proof I actually code)
 
