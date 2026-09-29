@@ -31,10 +31,8 @@ I enjoy working on backend systems, automations, and anything that solves real p
 ---
 
 
-## 📊 Stats (aka proof I actually code)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasfaeel11&theme=dark)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasfaeel11&theme=dark)
+## 📊 Stats 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rasfaeel11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=rasfaeel11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rasfaeel11&layout=compact&langs_count=3&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=rasfaeel11&layout=compact&langs_count=3&theme=aura) 
 
 ---
 
