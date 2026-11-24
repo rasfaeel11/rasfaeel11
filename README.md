@@ -15,22 +15,6 @@ Also yes, I'm a gamer with no time to play anymore 😅
 
 I enjoy working on backend systems, automations, and anything that solves real problems instead of just looking cool.
 
----
-
-## 💼 Experience
-
-**Full-Stack Developer (Freelance)**  
-- Built a B2B mobile app with offline-first architecture (React Native)  
-- Backend with Node.js, PostgreSQL, and Prisma  
-- Data sync + caching for real-world usage (bad internet included)
-
-**Computer Maintenance**  
-- Fixing, optimizing, and setting up machines  
-- Linux/Windows environments and general troubleshooting  
-
----
-
-
 ## 📊 Stats 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rasfaeel11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=rasfaeel11&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=ocean_dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rasfaeel11&layout=compact&langs_count=3&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=rasfaeel11&layout=compact&langs_count=3&theme=aura) 
 
